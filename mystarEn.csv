@@ -1,3 +1,3 @@
 date,color,image,title,info1,info2,notice
-2023-07-10,F700FF,notice2,Notice A,Clean up the contents.,Clean up the contents.,#Notice Organizing the contents#Changing the line#내용 내용#내용 내용#<color=blue>에디터에서 글자색 변경</color>#<b>Bold체 작성</b>#일반글자#테스트 글자 모양
-2023-07-11,009BFF,notice1,Notice B,There is a game update.,Download it from the Google Store now.,#공지사항 내용 2번#내용을 적어 본다.#줄바꿈 확인
+2023-07-10,Notice A,<nbsp><nbsp><nbsp><nbsp><nbsp>Clean up the contents.,<nbsp><nbsp><nbsp><nbsp><nbsp>Clean up the contents.,#Notice Organizing the contents#Changing the line#내용 내용#내용 내용#<color=blue>에디터에서 글자색 변경</color>#<b>Bold체 작성</b>#일반글자#테스트 글자 모양
+2023-07-11,Notice B,<nbsp><nbsp><nbsp><nbsp><nbsp>There is a game update.,<nbsp><nbsp><nbsp><nbsp><nbsp>Download it from the Google Store now.,#공지사항 내용 2번#내용을 적어 본다.#줄바꿈 확인
